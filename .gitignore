@@ -1,0 +1,5 @@
+.idea/
+**/__pycache__/
+embedding_store/
+venv/
+faiss_store_openai.pkl
